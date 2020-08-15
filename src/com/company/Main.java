@@ -6,6 +6,9 @@ public class Main {
     public static int n = 0;
 
     public static void main(String[] args) throws InterruptedException {
+        // Реализовать считывание курсов криптовалют с сайта лююбой криптовалютной биржи, где есть выдача данных в JSON или XML.
+        // Спроектировать JavaFX приложение, где можно выбрать вид валюты и обменять её по курсу (отображать изображения валют)
+        // Данные из сети считывать отдельным потоком
 
         long start = System.currentTimeMillis();
         final int N = 10;
